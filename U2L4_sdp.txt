@@ -1,0 +1,6 @@
+1. They need to be the same length and width
+2. The length of the first must be equal to the height of the second
+3. Multiply the height of the first by the width of the second
+4. The outer loop needs to iterations the length of Matrix A, the inner loop needs to
+loop through the rows of Matrix B
+5. Modulo
